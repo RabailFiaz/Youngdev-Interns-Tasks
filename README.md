@@ -2,7 +2,7 @@
 
 This repository contains all the tasks completed as part of the **YoungDev Internship Program**. The internship was divided into two segments:
 
-- **AI Tasks (3 Tasks)**
+- **AI Tasks (9 Tasks)**
 - **ML Tasks (9 Tasks)**  
 
 Each task involved practical implementation of machine learning and deep learning models using Python, scikit-learn, TensorFlow, and associated libraries.
@@ -13,9 +13,18 @@ Each task involved practical implementation of machine learning and deep learnin
 
 youngdev-internship/
 - ├── AI_Tasks/
-- │ ├── Task1_.ipynb
-- │ ├── Task2.ipynb
-- │ └── Task3.ipynb
+-| ├── Basic Level/
+- │   ├── Task1.ipynb
+- │   ├── Task2.ipynb
+- │   ├── Task3.ipynb
+- │ ├── Intermediate Level
+- │   ├── Task1.ipynb
+- │   ├── Task2.ipynb
+- │   ├── Task3.ipynb
+- │ ├── Expert Level
+- │   ├── Task1.ipynb
+- │   ├── Task2.ipynb
+- │   ├── Task3.ipynb
 - ├── ML_Tasks/
 - | ├── Basic Level/
 - │   ├── Task1.ipynb
